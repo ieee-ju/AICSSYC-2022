@@ -8,4 +8,4 @@ AICSSYC Webpage sections :-
 7. Contact
 
 
-https://saptarshipani.github.io/AICSSYC-2022/
+Link : https://ieee-jaduniv.in/AICSSYC-2022/
